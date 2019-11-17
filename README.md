@@ -1,2 +1,4 @@
 # no_show_sus
 No-show in the Brazilian Public Health System (SUS - Sistema Único de Saúde)
+
+The dataset used in the analysis contains more than one-hundred thousand entries regarding no-show in the Brazilian public health system (Sistema Único de Saúde - SUS) between April 29 2016 and June 8 2016. Each entry has a unique appointment ID along with information about the patient. The information available is the following: a patient ID; sex; day and time of scheduling; day of the appointment; age; neighbourhood of the medical center; whether the patient receives money from Bolsa Família, a social welfare program of the Government of Brazil; whether the patient has hypertension, diabetes, alcoholism, or handicaps; whether an SMS was received reminding the patient of the appointment; and whether this event was a no-show.
